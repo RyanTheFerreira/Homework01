@@ -1,7 +1,14 @@
-Descrption
-On the job ticket that starts with an original line of code that I modified to meet standard accessibility for people with disabilities. The main focus of this project was to find alternative codes that would help those who use assistive technologies. 
+# descripton
+Customer requested that the website be upgraded for standard accessibility
+additions/changes made to website for standard accessibility for disability viewers
+Horiseon is now shown on tab
+images and icons now have AlT descriptions
+changed noteable divs to semantic Elements
+All 3 links now moves viewer to their respective location on website
 
-site contains information of what Horiseons practices and assist their customers with. Links on the top page will take the viewer to different parts of the website. 
+https://ryantheferreira.github.io/Homework01/
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+https://github.com/RyanTheFerreira/Homework01
+
+
+
